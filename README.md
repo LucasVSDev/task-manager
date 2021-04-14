@@ -2,7 +2,7 @@
 
 Código fonte do projeto desenvolvido durante uma aula disponível no [YouTube](https://youtu.be/fqup-BL3VjI) que consiste em um Task Manager usando React e Context Api e Hooks.
 
-Este projeto utiliza o [Create React App](https://github.com/facebook/create-react-app) e [Context Api](https://pt-br.reactjs.org/docs/context.html) e [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html).
+Este projeto utiliza o [Create React App](https://github.com/facebook/create-react-app), [Context Api](https://pt-br.reactjs.org/docs/context.html) e [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html).
 
 ## Instalação
 
