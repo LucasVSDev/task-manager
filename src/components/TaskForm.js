@@ -39,10 +39,10 @@ const TaskForm = () => {
       />
       <div className="buttons">
         <button type="submit" className="btn add-task-btn">
-          {editItem ? 'Edit Task' : 'Add'}
+          {editItem ? 'Editar' : 'Adicionar'}
         </button>
         <button className="btn clear-btn" onClick={clearList}>
-          Limpar
+           Limpar Tudo
         </button>
       </div>
     </form>
